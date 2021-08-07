@@ -1,0 +1,19 @@
+{
+  "name": "spritex",
+  "version": "1.0.0",
+  "description": "An open source web app.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haider-Ali-Dev/SpriteX.git"
+  },
+  "author": "Haider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haider-Ali-Dev/SpriteX/issues"
+  },
+  "homepage": "https://github.com/Haider-Ali-Dev/SpriteX#readme"
+}

@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+
+.spx {
+    text-align: center;
+    text-decoration: underline;
+    border: 10px solid blue;
+}
+
+
+
